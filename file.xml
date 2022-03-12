@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<GraphicsCommands>
+   <turtlefile.main.GoToCommand object at 0x000002779873E5F0>
+   <turtlefile.main.GoToCommand object at 0x000002779873D780>
+   <turtlefile.main.GoToCommand object at 0x000002779873E530>
+   <turtlefile.main.GoToCommand object at 0x000002779873F040>
+   <turtlefile.main.GoToCommand object at 0x000002779873F220>
+   <turtlefile.main.GoToCommand object at 0x000002779873DB10>
+   <turtlefile.main.CircleCommand object at 0x000002779873FC40>
+   <turtlefile.main.GoToCommand object at 0x000002779873FB80>
+   <turtlefile.main.CircleCommand object at 0x000002779873FF70>
+   <turtlefile.main.PenUpCommand object at 0x0000027799F28160>
+   <turtlefile.main.PenDownCommand object at 0x0000027799F28310>
+</GraphicsCommands>
